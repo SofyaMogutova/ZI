@@ -1,0 +1,14 @@
+﻿  lab2.cpp
+C:\Users\Соня\source\repos\lab2_ZI\lab2\lab2.hpp(71,2): warning C4091: static : пропускается слева от "Vernam", когда ни одна переменная не объявлена
+  rsa.cpp
+C:\Users\Соня\source\repos\lab2_ZI\lab2\lab2.hpp(71,2): warning C4091: static : пропускается слева от "Vernam", когда ни одна переменная не объявлена
+C:\Users\Соня\source\repos\lab2_ZI\lab2\rsa.cpp(216,93): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Соня\source\repos\lab2_ZI\lab2\rsa.cpp(239,32): warning C4244: +=: преобразование "unsigned __int64" в "int", возможна потеря данных
+  shamir.cpp
+C:\Users\Соня\source\repos\lab2_ZI\lab2\lab2.hpp(71,2): warning C4091: static : пропускается слева от "Vernam", когда ни одна переменная не объявлена
+C:\Users\Соня\source\repos\lab2_ZI\lab2\shamir.cpp(8,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Соня\source\repos\lab2_ZI\lab2\shamir.cpp(8,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  vernam.cpp
+C:\Users\Соня\source\repos\lab2_ZI\lab2\lab2.hpp(71,2): warning C4091: static : пропускается слева от "Vernam", когда ни одна переменная не объявлена
+  Создание кода...
+  lab2.vcxproj -> C:\Users\Соня\source\repos\lab2_ZI\x64\Debug\lab2.exe
