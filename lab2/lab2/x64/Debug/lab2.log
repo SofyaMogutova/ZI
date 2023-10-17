@@ -1,0 +1,8 @@
+﻿  rsa.cpp
+C:\Users\Соня\Downloads\ZI-main (1)\ZI-main\lab2\lab2\lab2.hpp(71,2): warning C4091: static : пропускается слева от "Vernam", когда ни одна переменная не объявлена
+C:\Users\Соня\Downloads\ZI-main (1)\ZI-main\lab2\lab2\rsa.cpp(205,43): warning C4244: =: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\Соня\Downloads\ZI-main (1)\ZI-main\lab2\lab2\rsa.cpp(206,14): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Соня\Downloads\ZI-main (1)\ZI-main\lab2\lab2\rsa.cpp(221,11): warning C4267: +=: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Соня\Downloads\ZI-main (1)\ZI-main\lab2\lab2\rsa.cpp(269,58): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\Соня\Downloads\ZI-main (1)\ZI-main\lab2\lab2\rsa.cpp(280,105): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab2.vcxproj -> C:\Users\Соня\Downloads\ZI-main (1)\ZI-main\lab2\x64\Debug\lab2.exe

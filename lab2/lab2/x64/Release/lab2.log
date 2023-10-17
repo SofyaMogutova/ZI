@@ -1,0 +1,8 @@
+﻿  lab2.cpp
+C:\Users\Соня\Downloads\ZI-main (1)\ZI-main\lab2\lab2\lab2.hpp(71,2): warning C4091: static : пропускается слева от "Vernam", когда ни одна переменная не объявлена
+  Создание кода
+  2 of 450 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lab2.vcxproj -> C:\Users\Соня\Downloads\ZI-main (1)\ZI-main\lab2\x64\Release\lab2.exe
